@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/MyIntentApp/app/src/main/res/layout/activity_dial_number.xml" value="0.27447916666666666" />
+        <entry key="..\:/MyIntentApp/app/src/main/res/layout/activity_main.xml" value="0.26856884057971014" />
         <entry key="..\:/MyIntentApp/app/src/main/res/layout/activity_motion_layout.xml" value="0.27447916666666666" />
         <entry key="..\:/MyIntentApp/app/src/main/res/layout/activity_move.xml" value="0.536" />
+        <entry key="..\:/MyIntentApp/app/src/main/res/layout/activity_move_for_result.xml" value="0.2463768115942029" />
         <entry key="..\:/MyIntentApp/app/src/main/res/layout/activity_move_with_data.xml" value="0.192481884057971" />
         <entry key="..\:/MyIntentApp/app/src/main/res/layout/activity_move_with_object.xml" value="0.14945652173913043" />
       </map>
